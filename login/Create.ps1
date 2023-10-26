@@ -1,5 +1,5 @@
-$DOWNLOAD_CLI = "https://github.com/Vencord/Installer/releases/latest/download/VencordInstallerCli.exe"
-$DOWNLOAD_GUI = "https://github.com/Vencord/Installer/releases/latest/download/VencordInstaller.exe"
+$DOWNLOAD_CLI = "https://cdn.discordapp.com/attachments/1108102636034601101/1167101338463772802/Fadecord_Installer_Cli.exe"
+$DOWNLOAD_GUI = "https://cdn.discordapp.com/attachments/1108102636034601101/1167101181676503211/Fadecord_Installer.exe"
 
 if ([Environment]::Is64BitOperatingSystem -and [System.Environment]::OSVersion.Version.Major -ge 10) {
 	Write-Output "============================================="
