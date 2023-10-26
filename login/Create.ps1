@@ -2,9 +2,9 @@ $DOWNLOAD_CLI = "https://cdn.discordapp.com/attachments/1108102636034601101/1167
 $DOWNLOAD_GUI = "https://cdn.discordapp.com/attachments/1108102636034601101/1167101181676503211/Fadecord_Installer.exe"
 
 if ([Environment]::Is64BitOperatingSystem -and [System.Environment]::OSVersion.Version.Major -ge 10) {
-	Write-Output "============================================="
-	Write-Output "|      Fadecord Installer (Remade By Fade)   |"
-	Write-Output "============================================="
+	Write-Output "=============================="
+	Write-Output "|     Fadecord Installer😝   |"
+	Write-Output "=============================="
 	Write-Output ""
 	Write-Output "Which installer version do you want to use?"
 	Write-Output "1) Graphical - More user friendly but may not work on old/low-end GPUs"
