@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            Fadecord
 // @description     A Discord client mod - Web version
-// @version         1.6.7.1707008025397
-// @author          Fadewasheres
+// @version         1.7.7.1707008025398
+// @author          Fadewas.heres
 // @namespace       https://github.com/fadewasheres/Fadecord
 // @supportURL      https://github.com/fadewasheres/Fadecord
 // @license         GPL-3.0
